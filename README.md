@@ -1,7 +1,3 @@
-![Profile Banner](https://avatars.githubusercontent.com/u/USERNAME?v=4)
-
-# Hi, I'm Melanie Jenkins 👋
-
 **Database Analyst & Developer**  
 Specializing in financial analysis, SQL databases, Access & MySQL
 
